@@ -1,0 +1,24 @@
+{
+  "name": "avaliacaonodeapi",
+  "version": "1.0.0",
+  "description": "Avaliação Renan",
+  "homepage": "https://github.com/JohnTork/AvaliacaoNodeAPI#readme",
+  "bugs": {
+    "url": "https://github.com/JohnTork/AvaliacaoNodeAPI/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnTork/AvaliacaoNodeAPI.git"
+  },
+  "license": "ISC",
+  "author": "John Tork",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
